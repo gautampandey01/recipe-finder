@@ -1,30 +1,7 @@
 # Interactive recipe finder
+Built a single-page recipe search app with a clean, user-friendly interface
+.Integrated the Edamam Recipe API to fetch and display real-time recipe results.
+Implemented search functionality with loading states, error handling, and no-result feedback.
+Showcased recipe title, image, and direct links for full recipe access.
+Deployed on Vercel
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/ponty-bhais-projects/v0-interactive-recipe-finder)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/iFjW4YozMxX)
-
-## Overview
-
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
-
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/ponty-bhais-projects/v0-interactive-recipe-finder](https://vercel.com/ponty-bhais-projects/v0-interactive-recipe-finder)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/iFjW4YozMxX](https://v0.app/chat/projects/iFjW4YozMxX)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
